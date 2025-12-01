@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/2d7c4sC/Neon-Purple-Developer-Banner.png" width="100%" alt="banner"/>
+  <img src="https://img.freepik.com/premium-photo/web-development-concept-with-person-using-laptop-computer_1158146-32201.jpg" alt="banner"/>
 </p>
 
 <h1 align="center">🚀 Rajesh Kumar Sarkar</h1>
